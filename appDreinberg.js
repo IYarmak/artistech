@@ -28,7 +28,7 @@ AFRAME.registerComponent("mytarget", {
                 window.location.href = "https://vk.com/tomorrowsrender";
             });
             instButton.addEventListener("click", (event) => {
-                window.location.href = "https://instagram.com/i.yarmak";
+                window.location.href = "https://instagram.com/a.dreinberg";
             });
             youtubeButton.addEventListener("click", (event) => {
                 window.location.href = "https://www.youtube.com/@tomorrowsrender";
