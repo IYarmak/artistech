@@ -16,7 +16,7 @@ AFRAME.registerComponent("mytarget", {
                 window.location.href = "https://tomorrowsrender.com/";
             });
             phoneButton.addEventListener("click", (event) => {
-                window.open("tel:+79217900015);
+                window.open("tel:+79217900015");
             });
             messageButton.addEventListener("click", (event) => {
                 window.location.href = "https://t.me/dreinberg";
